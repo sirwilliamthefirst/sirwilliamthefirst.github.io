@@ -21,6 +21,8 @@ description: A collection of works
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Works: 
+    - Zen of Japan: "/works/zen-of-japan.pdf"
   #Blog:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
