@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: William Braxton
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Wiliam Braxton is a student at Stony Brook University studying Computer Science. He has worked as an intern at Brookhaven National Lab, and as a Software Engineer at Softheon. William has also studied abroad in Japan, living there for a month, studying Japanese language and culture. A wordsmith and conjuror of vibrations, William wishes to expand the breadth of human thinking and expression. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
