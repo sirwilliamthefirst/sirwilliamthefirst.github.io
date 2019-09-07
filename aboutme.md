@@ -8,5 +8,5 @@ Wiliam Braxton is a student at Stony Brook University studying Computer Science.
 
 
 <p align="center">
-  <img src="https://github.com/sirwilliamthefirst/sirwilliamthefirst.github.io/img/flag%20wave.png" />
+  <img src="./img/flag%20wave.png" />
 </p>
