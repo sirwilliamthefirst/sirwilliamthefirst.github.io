@@ -25,6 +25,7 @@ navbar-links:
     - Zen of Japan: "/works/The%20Zen%20of%20Japan.pdf"
   Travel:
     - Japan: "/travel/japan"
+  Resume: "william_braxton_resume.pdf"
   #Blog:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
